@@ -710,4 +710,15 @@ Small phones
     .modal__half {
         padding: 40px;
     }
+    .shape {
+        display: none;
+    }
+    .project__description {
+        opacity: 1;
+        transform: translateY(-50%);
+    }
+    .project__wrapper--bg {
+        opacity: 0.7;
+    }
+    
 }
